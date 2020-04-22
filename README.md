@@ -6,7 +6,7 @@
 <body>
 	<table cellspacing="16">
 	<tr>
-		<td><img src="https://ashutosh-ravi84.github.io/ashproject1/circle-cropped-_1_.jpeg" height="240"width="250"></td>
+		<td><img src="https://ashutosh-ravi84.github.io/ashproject1/circle-cropped-_1_.jpeg" height="140"width="150"></td>
 <td><h1>ASHUTOSH</h1>
 <p><strong>Currently persuing B.Tech CSE from INVERTIS UNIVERSITY BAREILLY</strong></p></td>
 </tr>
