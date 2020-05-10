@@ -2,7 +2,7 @@
 <html>
 
 <body bgcolor="powderblue">
-	<img src="https://ashutosh-ravi84.github.io/ash/Webp.net-compress-image.jpg" height="140"width="150">
+	<img src="https://ashutosh-ravi84.github.io/ash/Webp.net-compress-image.JPG" height="140"width="150">
 	<table cellspacing="16">
 	<tr>
 		
