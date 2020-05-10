@@ -4,7 +4,7 @@
 <body bgcolor="powderblue">
 	<table cellspacing="16">
 	<tr>
-		<td class="pic"><img src="https://ashutosh-ravi84.github.io/ashproject1/Webp.net-compress-image.jpg" height="140"width="150"></td>
+		<td class="pic"><img src="https://ashutosh-ravi84.github.io/ash/Webp.net-compress-image.jpg" height="140"width="150"></td>
 <td><h1>ASHUTOSH</h1>
 <p><strong>Currently persuing B.Tech CSE from INVERTIS UNIVERSITY BAREILLY</strong></p></td>
 </tr>
